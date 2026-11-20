@@ -2,39 +2,34 @@
 
 **Scrum Master** com foco em automação de processos, métricas ágeis e ferramentas de IA aplicadas ao dia a dia de times de tecnologia.
 
-Trabalho na interseção entre agilidade e automação — uso Python e IA para transformar tarefas repetitivas em fluxos inteligentes dentro de plataformas como Jira, Microsoft 365 e Teams.
+Trabalho na interseção entre agilidade e automação: uso IA, Python e TypeScript para transformar tarefas repetitivas em fluxos inteligentes e para dar aos times visibilidade do próprio trabalho.
 
 ---
 
 ## Stack
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=microsoft&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
 
 ---
 
-## Projetos em Destaque
-
-### Automação e Inteligência
+## Projetos em destaque
 
 | Projeto | O que faz |
 |---|---|
-| [jira-analytics](https://github.com/sidneydiaraujo/jira-analytics) | Análise inteligente de sprints, métricas por desenvolvedor, risco de atraso e velocidade do time via Jira API |
-| [jira-epic-automator](https://github.com/sidneydiaraujo/jira-epic-automator) | Automatiza o ciclo de vida de épicos no Jira com 9 regras de negócio e proteções de dados |
-| [jira-dev](https://github.com/sidneydiaraujo/jira-dev) | Criação e documentação de tickets no Jira com auxílio de IA |
-| [resumo-reunioes-teams](https://github.com/sidneydiaraujo/resumo-reunioes-teams) | Processa transcrições do Microsoft Teams e salva resumos estruturados no OneDrive |
-| [reunioes-consulta](https://github.com/sidneydiaraujo/reunioes-consulta) | Consulta inteligente a reuniões salvas no OneDrive via linguagem natural |
-| [claude-dev-plugin](https://github.com/sidneydiaraujo/claude-dev-plugin) | Plugin com 8 especialistas autônomos para construção de sistemas complexos no Claude Code |
-
----
-
-## Em Construção
-
-- **Portfólio Ágil** — Cases e artefatos de gestão ágil (em desenvolvimento)
+| [Mãozinha](https://github.com/sidneydiaraujo/maozinha) | App de desktop (Windows, Electron) com uma lousa onde cada quadro é um terminal de IA. Várias contas do Claude Code lado a lado, isoladas, e agentes que trabalham em time: um líder distribui, confere e junta o trabalho. |
+| [time-dev](https://github.com/sidneydiaraujo/claude-dev-plugin) | Plugin do Claude Code com 10 especialistas de desenvolvimento em português (produto, arquitetura, API, banco, UX/UI, QA, DevOps, segurança, documentação e prompts) e 2 revisores independentes. |
+| [Método PONTE](https://github.com/sidneydiaraujo/metodo-ponte) | Skill de IA para alinhar culturas diferentes rumo a um desejo comum, sem apagar nenhuma. |
+| [resumo-reunioes-teams](https://github.com/sidneydiaraujo/resumo-reunioes-teams) | Processa transcrições do Microsoft Teams e salva resumos estruturados (decisões, tarefas, pendências) no OneDrive. |
+| [Portfólio Ágil](https://github.com/sidneydiaraujo/portifolio-agil) | Cases de gestão ágil e de dados para times de tecnologia. |
 
 ---
 

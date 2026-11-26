@@ -1,8 +1,8 @@
 # Sidney de Araujo
 
-**Scrum Master que constrói ferramentas com IA para times de tecnologia.**
+**Scrum Master e gestor de projetos que constrói ferramentas com IA para times de tecnologia.**
 
-Trabalho na interseção entre agilidade e IA: facilito times com Scrum, Kanban, SAFe e LeSS e, quando falta uma ferramenta para o processo funcionar, eu construo. Uso Claude Code, agentes de IA, Python e TypeScript para tirar trabalho repetitivo do caminho e dar ao time e à gestão visibilidade do próprio fluxo. Sou formado em Psicologia, e isso aparece no jeito de tratar falhas: processo, pessoas e IA, sem caça a culpados.
+Trabalho na interseção entre agilidade, gestão de projetos e IA: facilito times com Scrum, Kanban, SAFe e LeSS, conduzo projetos do planejamento à entrega e, quando falta uma ferramenta para o processo funcionar, eu construo. Uso Claude Code, agentes de IA, Python e TypeScript para tirar trabalho repetitivo do caminho e dar ao time e à gestão visibilidade do próprio fluxo. Sou formado em Psicologia, e isso aparece no jeito de tratar falhas: processo, pessoas e IA, sem caça a culpados.
 
 ---
 
@@ -22,6 +22,7 @@ Trabalho na interseção entre agilidade e IA: facilito times com Scrum, Kanban,
 ## O que eu faço
 
 - **Agilidade:** cerimônias, remoção de impedimentos, métricas de fluxo, backlog, sprints e releases
+- **Gestão de projetos:** planejamento, prazos, riscos, acompanhamento de entregas e alinhamento com stakeholders
 - **IA aplicada a times:** skills, agentes, orquestração de agentes e governança do uso de IA
 - **Automação:** relatórios, métricas e rotinas de gestão com Claude Code, Python, Jira e Microsoft 365
 - **Pessoas:** facilitação, 1:1, feedback, mediação de conflitos e onboarding

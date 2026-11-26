@@ -10,8 +10,8 @@ Trabalho na interseção entre agilidade, gestão de projetos e IA: facilito tim
 
 | Projeto | Por que importa |
 |---|---|
-| [inspetor.ia](https://github.com/sidneydiaraujo/jirafalis) | Governança de processo no Jira para squads que usam IA: mostra onde o fluxo desvia e a causa provável da falha (processo, pessoa ou IA). |
-| [opensquad-desktop](https://github.com/sidneydiaraujo/maozinha) | App de desktop (Electron + TypeScript) em que vários agentes de IA trabalham em time, com um líder que distribui, confere e junta o trabalho, e contas do Claude Code isoladas lado a lado. |
+| [inspetor.ia](https://github.com/sidneydiaraujo/inspetor.ia) | Governança de processo no Jira para squads que usam IA: mostra onde o fluxo desvia e a causa provável da falha (processo, pessoa ou IA). |
+| [opensquad-desktop](https://github.com/sidneydiaraujo/opensquad-desktop) | App de desktop (Electron + TypeScript) em que vários agentes de IA trabalham em time, com um líder que distribui, confere e junta o trabalho, e contas do Claude Code isoladas lado a lado. |
 | [time-dev](https://github.com/sidneydiaraujo/claude-dev-plugin) | Plugin do Claude Code com 10 especialistas e 2 revisores independentes, em português: os papéis de um time de desenvolvimento aplicados à IA. |
 | [Método PONTE](https://github.com/sidneydiaraujo/metodo-ponte) | Método próprio, com skill de IA, para alinhar culturas diferentes rumo a um desejo comum, sem que uma se imponha à outra. |
 | [resumo-reunioes-teams](https://github.com/sidneydiaraujo/resumo-reunioes-teams) | Transcrições do Microsoft Teams viram resumos com decisões, tarefas e pendências que atravessam uma reunião e outra. |
